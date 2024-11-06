@@ -18,8 +18,9 @@ information determine the cost of a launch.
 ### IBM Capstone Notebooks:
 1. Module 1: Data Collection API 
 2. Module 1: Data Collextion with Web Scrapping
-3. Module 2: EDA with SQL
-4. Module 2: EDA with visualization
-5. Interactive Visuals with Folium Lab
-6. Interactive Dashboard with Ploty Dashboard
-7. Machine Learning Prediction 
+3. Module 1: Data Wrangling
+4. Module 2: EDA with SQL
+5. Module 2: EDA with visualization
+6. Interactive Visuals with Folium Lab
+7. Interactive Dashboard with Ploty Dashboard
+8. Machine Learning Prediction 
